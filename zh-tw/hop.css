@@ -1,0 +1,31 @@
+body{
+	font-family:  'Helvetica Neue Light',
+		'Helvetica Neue', 'Segoe UI', Helvetica, Arial, 'Lucida Grande', 'WenQuanYi Zen Hei', 'LiHei Pro Medium', 'Microsoft JhengHei', sans-serif;
+}
+
+/* Navigation Bar */
+
+.navbar-default {
+	font-family: 'Open Sans', 'Helvetica Neue', Arial, 'WenQuanYi Zen Hei', 'LiHei Pro', 'Microsoft YaHei', sans-serif;
+}
+
+.navbar-default .navbar-header .navbar-brand, .navbar-default .navbar-header .navbar-brand:focus
+	{
+	font-family: 'Open Sans', 'Helvetica Neue', Arial, 'WenQuanYi Zen Hei', 'LiHei Pro', 'Microsoft YaHei', sans-serif;
+}
+
+/* Hearder */
+
+.header-text {
+	font-family: inherit;
+}
+
+#slogan {
+    font-family: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, 'Lucida Grande', 'WenQuanYi Zen Hei', 'LiHei Pro Medium', 'Microsoft JhengHei', sans-serif;
+}
+
+/* Benefits */
+
+.benefit-box .text-faded {
+    font-family: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, 'Lucida Grande', 'WenQuanYi Zen Hei', 'LiHei Pro', 'Microsoft YaHei', sans-serif;
+}

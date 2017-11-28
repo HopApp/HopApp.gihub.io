@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+	xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+	<url>
+		<loc>http://hop.appfinca.com</loc>
+		<image:image>
+			<image:loc>http://hop.appfinca.com/img/1_match.jpg
+			</image:loc>
+			<image:caption>Match up with a friend of
+				your Facebook friends.
+			</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://hop.appfinca.com/img/2_profile_cover.jpg
+			</image:loc>
+			<image:caption>Chat with the matched
+				person anonymously, except seeing
+				a common friend.
+			</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://hop.appfinca.com/img/3-achat.jpg
+			</image:loc>
+			<image:caption>If you like, swipe right
+				to see each other and make
+				friends!
+			</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://hop.appfinca.com/img/4_congrats.jpg
+			</image:loc>
+			<image:caption>>Congrats! You just expanded your
+				circles and got more
+				matches to explore.
+			</image:caption>
+		</image:image>
+
+		<video:video>
+			<video:content_loc>
+				https://www.youtube.com/watch?v=mSZup_fUw-g
+			</video:content_loc>
+			<video:title>Hop: Meet Friends' Friends, from Heart to Hearts
+			</video:title>
+			<video:description>
+				Hop is an app that helps you connect to your
+				friends of friends, from heart to hearts.
+			</video:description>
+		</video:video>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>http://hop.appfinca.com/zh-tw/</loc>
+		<image:image>
+			<image:loc>http://hop.appfinca.com/zh-tw/img/1_match.jpg
+			</image:loc>
+			<image:caption>與一位 Facebook『朋友的朋友』配對。
+			</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://hop.appfinca.com/zh-tw/img/2_profile_cover.jpg
+			</image:loc>
+			<image:caption>配對成功後，即可知道誰是共同好友，並開始匿名聊天。
+			</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://hop.appfinca.com/zh-tw/img/3_achat.jpg
+			</image:loc>
+			<image:caption>如果聊得來，往右滑動即可公開身份並結交新朋友！
+			</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://hop.appfinca.com/zh-tw/img/4_congrats.jpg
+			</image:loc>
+			<image:caption>>你成功拓展了交友圈，並且獲得探索更多『朋友的朋友』的機會。
+			</image:caption>
+		</image:image>
+
+		<video:video>
+			<video:content_loc>
+				https://www.youtube.com/watch?v=mSZup_fUw-g
+			</video:content_loc>
+			<video:title>Hop: 從心開始 認識朋友的朋友
+			</video:title>
+			<video:description>
+				Hop 是一個幫助你認識『朋友的朋友』的 app，從內在出發。
+			</video:description>
+		</video:video>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://hop.appfinca.com/privacy/</loc>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://hop.appfinca.com/terms/</loc>
+		<priority>0.1</priority>
+	</url>
+</urlset>
